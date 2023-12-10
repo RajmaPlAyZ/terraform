@@ -13,3 +13,17 @@
 ### sudo apt-get install -y terraform
 
 ## THE JENKINS LAB REPO CONSIST OF AN ANSIBLE PLAY BOOK WHICH LEADS TO JENKINS INSTALLATION
+
+# NOTE - CONFIGURE AND INSTALL AWS CLI
+## NOTE - https://developer.hashicorp.com/terraform/install?product_intent=terraform 
+## INSTALL TERRAFORM.EXE FILE 
+
+# COMMANDS TO BE EXECUTED -
+## .\terraform.exe init
+## .\terraform.exe plan
+## .\terraform.exe apply --auto-approve
+
+# TO END 
+## .\terraform.exe destroy --auto-approve
+
+### ATTACHING ANSIBLE PLAYBOOK
